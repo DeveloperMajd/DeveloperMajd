@@ -60,19 +60,6 @@
 
 🔗 [Frontend repo](https://github.com/DeveloperMajd/rtm_frontend) · [Backend repo](https://github.com/DeveloperMajd/rtm_backend)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DeveloperMajd&show_icons=true&theme=radical&hide_border=true" alt="Majd's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMajd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMajd&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeveloperMajd&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
 ## 🌍 Languages
 
 `German (C1)` · `English (C1)` · `Arabic (Native)`
