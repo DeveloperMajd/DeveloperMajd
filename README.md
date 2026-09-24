@@ -16,7 +16,6 @@
 - 🌱 Currently deepening my skills in **Vue.js 3, Angular, Socket.io**, and **JWT-based authentication**
 - 🛠️ Comfortable across the full stack — from responsive UI to REST APIs, auth, testing, and CI/CD
 - 🤖 Building with modern AI tooling (GitHub Copilot, Claude) as part of my day-to-day workflow
-- 🎓 Informatik (B.Sc.), Freie Universität Berlin
 - ♟️ Outside of code: chess, table tennis, and the gym
 
 ## 🛠️ Tech Stack
